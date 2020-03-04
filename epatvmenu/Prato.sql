@@ -1,0 +1,8 @@
+﻿CREATE TABLE [dbo].[Prato]
+(
+	[Id] INT NOT NULL PRIMARY KEY, 
+    [Nome] NVARCHAR(50) NOT NULL, 
+    [Descrição] NVARCHAR(50) NOT NULL, 
+    [Foto] NVARCHAR(25) NOT NULL, 
+    [Tipo] NVARCHAR(50) NOT NULL
+)
