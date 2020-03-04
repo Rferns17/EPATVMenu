@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "\\\\172.30.16.14\\bkAUDIVIS\\Técnico de Multimédia\\2019-2020\\SIM\\BasesDados\\C#\\Exercicios\\Duarte\\PAP\\EPATVMenu2\\EPATVMenu.entities\\EPATVMenu.entities.csproj": {}
+  },
+  "projects": {
+    "\\\\172.30.16.14\\bkAUDIVIS\\Técnico de Multimédia\\2019-2020\\SIM\\BasesDados\\C#\\Exercicios\\Duarte\\PAP\\EPATVMenu2\\EPATVMenu.entities\\EPATVMenu.entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "\\\\172.30.16.14\\bkAUDIVIS\\Técnico de Multimédia\\2019-2020\\SIM\\BasesDados\\C#\\Exercicios\\Duarte\\PAP\\EPATVMenu2\\EPATVMenu.entities\\EPATVMenu.entities.csproj",
+        "projectName": "EPATVMenu.entities",
+        "projectPath": "\\\\172.30.16.14\\bkAUDIVIS\\Técnico de Multimédia\\2019-2020\\SIM\\BasesDados\\C#\\Exercicios\\Duarte\\PAP\\EPATVMenu2\\EPATVMenu.entities\\EPATVMenu.entities.csproj",
+        "packagesPath": "C:\\Users\\Utilizador\\.nuget\\packages\\",
+        "outputPath": "\\\\172.30.16.14\\bkAUDIVIS\\Técnico de Multimédia\\2019-2020\\SIM\\BasesDados\\C#\\Exercicios\\Duarte\\PAP\\EPATVMenu2\\EPATVMenu.entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Utilizador\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "uap10.0.17763"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "uap10.0.17763": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "uap10.0.17763": {
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-arm64-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
